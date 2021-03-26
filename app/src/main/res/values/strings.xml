@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Uche\'s Application</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Uchechi Ugo</string>
+    <string name="nav_header_subtitle">FAAC Statistics (2017)</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">About Data</string>
+    <string name="menu_gallery">Data Visual</string>
+    <string name="menu_slideshow">Home Page</string>
+    <string name="menu_aboutsoftware">About Software</string>
+</resources>
